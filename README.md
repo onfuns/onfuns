@@ -9,8 +9,6 @@
 <table cellspacing="0" cellpadding="0" style="border: none;">
 	<tr>
     <td>
-      <a href="https://renya.online"><img alt="Resume" src="https://img.shields.io/badge/-🧬%20Resume-000?" /></a>
-      <a href="https://coderfuns.com"><img alt="coderfuns.com" src="https://img.shields.io/badge/-🧬%20coderfuns.com-000?" /></a>
       <a href="https://onfuns.com"><img alt="onfuns.com" src="https://img.shields.io/badge/-🧬%20onfuns.com-000?" /></a>
     </td>
   </tr>
